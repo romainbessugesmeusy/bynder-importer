@@ -1,0 +1,39 @@
+{
+  "mediaid": "841248D3-F296-4C90-9B499532D08D3D8F",
+  "batchId": "033C9C87-D1DA-4A55-B1D44848EECA75EA",
+  "success": true,
+  "mediaitems": [
+    {
+      "original": "final/5cd50957-a7ae-4783-bdb6-9ac3cdb55536/HD-N21249R.png",
+      "destination": "bynder-media-eu-central-1/E1A2EE74-05CA-4646-8D1DA6ACA9A66DD9/841248D3-F296-4C90-9B499532D08D3D8F/A3393E40-FD96-4E48-A17FE12ACB063197/HD-N21249R.png"
+    },
+    {
+      "original": "final/5cd50957-a7ae-4783-bdb6-9ac3cdb55536/MD-N21249R.jpg",
+      "destination": "bynder-media-eu-central-1/E1A2EE74-05CA-4646-8D1DA6ACA9A66DD9/841248D3-F296-4C90-9B499532D08D3D8F/A3393E40-FD96-4E48-A17FE12ACB063197/MD-N21249R.jpg"
+    },
+    {
+      "original": "final/5cd50957-a7ae-4783-bdb6-9ac3cdb55536/mini-06933B29-3DE0-4B1D-9D6C5AE5FF347BC4.jpg",
+      "destination": "bynder-public-eu-central-1/media/E1A2EE74-05CA-4646-8D1DA6ACA9A66DD9/841248D3-F296-4C90-9B499532D08D3D8F/mini-F67A48DF-9A63-4D87-B75E5DCB5EEE0D08.jpg"
+    },
+    {
+      "original": "final/5cd50957-a7ae-4783-bdb6-9ac3cdb55536/SD-N21249R.jpg",
+      "destination": "bynder-media-eu-central-1/E1A2EE74-05CA-4646-8D1DA6ACA9A66DD9/841248D3-F296-4C90-9B499532D08D3D8F/A3393E40-FD96-4E48-A17FE12ACB063197/SD-N21249R.jpg"
+    },
+    {
+      "original": "final/5cd50957-a7ae-4783-bdb6-9ac3cdb55536/N21249R.tif",
+      "destination": "bynder-media-eu-central-1/E1A2EE74-05CA-4646-8D1DA6ACA9A66DD9/841248D3-F296-4C90-9B499532D08D3D8F/A3393E40-FD96-4E48-A17FE12ACB063197/N21249R.tif"
+    },
+    {
+      "original": "final/5cd50957-a7ae-4783-bdb6-9ac3cdb55536/thul-93BD84CF-17ED-4FB3-A86612195A28417F.jpg",
+      "destination": "bynder-public-eu-central-1/media/E1A2EE74-05CA-4646-8D1DA6ACA9A66DD9/841248D3-F296-4C90-9B499532D08D3D8F/thul-84E54249-DA11-4BB8-80B320D4CE1CA915.jpg"
+    },
+    {
+      "original": "final/5cd50957-a7ae-4783-bdb6-9ac3cdb55536/Thumbnail-N21249R.jpg",
+      "destination": "bynder-media-eu-central-1/E1A2EE74-05CA-4646-8D1DA6ACA9A66DD9/841248D3-F296-4C90-9B499532D08D3D8F/A3393E40-FD96-4E48-A17FE12ACB063197/Thumbnail-N21249R.jpg"
+    },
+    {
+      "original": "final/5cd50957-a7ae-4783-bdb6-9ac3cdb55536/webimage-57130307-AFBD-4E24-B465DE5A40499C2A.jpg",
+      "destination": "bynder-public-eu-central-1/media/E1A2EE74-05CA-4646-8D1DA6ACA9A66DD9/841248D3-F296-4C90-9B499532D08D3D8F/webimage-3699B7E3-7C0B-4BE4-983A53AEBEF3895E.jpg"
+    }
+  ]
+}

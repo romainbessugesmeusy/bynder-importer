@@ -1,0 +1,32 @@
+{
+  "name": "bynder-importer-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-unique": "^0.3.2",
+    "async": "^2.0.1",
+    "chunking-streams": "0.0.8",
+    "clear": "0.0.1",
+    "cli-table": "^0.3.1",
+    "csv-parser": "^1.9.3",
+    "extends": "0.0.4",
+    "filesize": "^3.3.0",
+    "glob": "^7.0.5",
+    "node-emoji": "^1.3.1",
+    "oauth-request": "0.0.1",
+    "pathinfo": "^0.1.0",
+    "read-chunk": "^2.0.0",
+    "request": "^2.74.0",
+    "temp": "^0.8.3",
+    "touch": "^1.0.0",
+    "xml-nodes": "^0.1.5",
+    "xml-objects": "^1.0.1",
+    "xml2json": "^0.9.1"
+  }
+}
