@@ -3,3 +3,5 @@ data
 medias
 credentials.js
 .idea
+error.log
+success.log
