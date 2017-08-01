@@ -28,7 +28,8 @@ var csvOptions = {
         'by_media_status',
         'by_media_use',
         'by_media_nature',
-        'description'
+        'description',
+        'by_media_owner'
     ]
 };
 
@@ -80,6 +81,7 @@ function complete() {
  * @property by_media_use {String}
  * @property by_media_status {String}
  * @property by_media_nature {String}
+ * @property by_media_owner {String}
  *
  */
 touch.sync('./success.log');
@@ -107,7 +109,8 @@ function eachRow(row, cb) {
                 by_activity: {name: row.by_activity},
                 by_media_status: {name: row.by_media_status},
                 by_media_use: {name: row.by_media_use},
-                by_media_nature: row.by_media_nature
+                by_media_nature: row.by_media_nature,
+                by_media_owner: {name: row.by_media_owner}
             }, function (metaproperties) {
                 saveNewMedia(
                     finalizeData.importId,
