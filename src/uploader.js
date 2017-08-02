@@ -107,7 +107,7 @@ module.exports = function (bynder, fileStats) {
 
             if (err) {
                 setUploadStats(filename, {status: 'ERROR file stat', message: err.message});
-                return onError('filestat');
+                return onError('filestat ' + filename);
             }
 
             var completed = 0;

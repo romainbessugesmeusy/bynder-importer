@@ -112,6 +112,7 @@ function eachRow(row, cb) {
                 by_media_nature: row.by_media_nature,
                 by_media_owner: {name: row.by_media_owner}
             }, function (metaproperties) {
+                console.info(metaproperties);
                 saveNewMedia(
                     finalizeData.importId,
                     {name: row.job, description: row.description},
@@ -124,7 +125,7 @@ function eachRow(row, cb) {
 }
 
 function run() {
-    parseCSV('./data/import_bynder.csv', csvOptions, function (rows) {
+    parseCSV(process.argv[2], csvOptions, function (rows) {
         async.eachLimit(rows, MAX_PARALLEL_UPLOADS, eachRow, complete);
     });
 }
