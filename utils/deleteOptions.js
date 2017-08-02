@@ -1,6 +1,6 @@
 var bynder = require('../src/bynderClient')(require('../credentials'));
 var async = require('async');
-var metaNames = ['B_Collection', 'B_Thematique'];
+var metaNames = process.argv.slice(2);
 
 bynder.get('v4/metaproperties/', function (err, metaproperties) {
     metaNames.forEach(function (name) {

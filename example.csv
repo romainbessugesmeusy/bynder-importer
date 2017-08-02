@@ -1,0 +1,4 @@
+"job","filename","sku","by_activity","by_media_status","by_media_usage","by_media_nature","description","by_media_owner"
+"N95708_Test_1","/absolute/path/to/file/N95708_Test_1.jpg","N0834","Product","Packshot","Product",PHOTO,"Example description","AIF"
+"N92974_Test_2","/absolute/path/to/file/N92974_Test_2.jpg","L9414,N1069","Product","Packshot","Product",PHOTO,"Example description","AINA"
+"N92973_Test_3","/absolute/path/to/file/N92973_Test_3.jpg","L9412,N1069","Product","Packshot","Product",PHOTO,"Example description","ADO"
